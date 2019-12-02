@@ -1,5 +1,5 @@
 -   id: flake8-conda
-    name: Flake8
+    name: flake8-conda
     description: This hook runs flake8.
     entry: flake8
     language: conda
