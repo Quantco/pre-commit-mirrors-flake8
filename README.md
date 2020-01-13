@@ -6,7 +6,7 @@ Mirror of flake8 for pre-commit with conda as a language.
 For pre-commit: see https://github.com/pre-commit/pre-commit
 For flake8: http://flake8.pycqa.org/
 
-### Using black with pre-commit and conda:
+### Using flake8 with pre-commit and conda:
 
 Add this to your `.pre-commit-config.yaml`
 
