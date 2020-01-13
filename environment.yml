@@ -2,5 +2,4 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python >=3.8
-  - flake8
+  - flake8=3.7.9
