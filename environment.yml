@@ -1,4 +1,4 @@
 channels:
   - conda-forge
 dependencies:
-  - flake8=4.0.1
+  - flake8=5.0.3
