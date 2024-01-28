@@ -1,7 +1,5 @@
--   id: flake8-conda
-    name: flake8-conda
-    description: This hook runs flake8.
-    entry: flake8
-    language: conda
-    types: [python]
-    require_serial: true
+- id: flake8-conda
+  name: flake8-conda
+  description: 'This hook runs flake8.'
+  entry: flake8
+  language: conda
