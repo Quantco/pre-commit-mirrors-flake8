@@ -1,6 +1,6 @@
-# flake8 mirror
+# flake8 pre-commit hook
 
-Mirror of flake8 for pre-commit with conda as a language.
+pre-commit hook of flake8 with conda as a `language` / package manager.
 
 For pre-commit: see [here](https://github.com/pre-commit/pre-commit)
 
